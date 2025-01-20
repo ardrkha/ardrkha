@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardrkha&label=Profile%20views&color=0e75b6&style=flat" alt="ardrkha" /> </p>
 
-- 👀 I'm interested in **Data Science and Graphic Design**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 👀 I'm interested in **Data Science and Machine Learning**
 
 - 📫 How to reach me **hardatama27@gmail.com**
 
